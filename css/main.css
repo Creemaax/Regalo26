@@ -31,16 +31,16 @@ body {
   letter-spacing: 4px;
 }
 @media only screen and (max-width: 600px) {
-  /* Estilos específicos para dispositivos con un ancho máximo de 600px */
+  /* Estilos especÃ­ficos para dispositivos con un ancho mÃ¡ximo de 600px */
   #lyrics {
-      font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
+      font-size: 14px; /* Reduce el tamaÃ±o del texto para dispositivos mÃ¡s pequeÃ±os */
       margin-bottom: 530px;
       letter-spacing: 3px;
   }
 
 }
 .titulo {
-  margin-bottom: 740px;
+  margin-bottom: 220px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: pink;
   position: absolute;
@@ -110,7 +110,7 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
-  /* Estilos específicos para dispositivos con un ancho máximo de 600px */
+  /* Estilos especÃ­ficos para dispositivos con un ancho mÃ¡ximo de 600px */
 .flowers {
       font-size: 14px;
       margin-bottom: 35%;
@@ -397,7 +397,7 @@ body {
       transparent 1px,
       transparent 12px
     ),
-    /* Cambia los colores aqu�: */
+    /* Cambia los colores aquí: */
     linear-gradient(90deg, rgb(255, 105, 180), rgb(219, 112, 147)); /* Rosa brillante y rosa oscuro */
 }
 
@@ -1611,7 +1611,7 @@ body {
 } /*# sourceMappingURL=main.css.map */
 
 
-/* Reset de estilos básicos */
+/* Reset de estilos bÃ¡sicos */
 body, h1, p {
   margin: 0;
   padding: 0;
@@ -1636,9 +1636,9 @@ h1 {
   margin-bottom: 20px;
 }
 
-/* Media Queries para tamaños de pantalla diferentes */
+/* Media Queries para tamaÃ±os de pantalla diferentes */
 @media screen and (max-width: 600px) {
-  /* Estilos para pantallas pequeñas */
+  /* Estilos para pantallas pequeÃ±as */
   h1 {
       font-size: 1.5em;
   }
@@ -1658,4 +1658,4 @@ h1 {
   }
 }
 
-/* Agregar más estilos según sea necesario */
+/* Agregar mÃ¡s estilos segÃºn sea necesario */
